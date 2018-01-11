@@ -37,5 +37,4 @@ for index, row in df_whole_data.iterrows():
 
 
     pass
-
 pass
